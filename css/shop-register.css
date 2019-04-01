@@ -1,0 +1,18 @@
+body {
+  padding-top: 56px;
+}
+.registration-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.registration-container form{
+    padding: 10%;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
